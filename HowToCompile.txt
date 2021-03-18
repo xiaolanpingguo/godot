@@ -1,0 +1,1 @@
+scons -j6 platform=windows bits=64 vsproj=yes
